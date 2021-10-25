@@ -1,0 +1,34 @@
+[
+    {
+        "base_price": 900,
+        "currency": "USD",
+        "host_name": "Mbwika Musyoki",
+        "id": 3,
+        "market": "paris",
+        "title": "Comfortable Room In Cozy Neighborhood"
+    },
+    {
+        "base_price": 867,
+        "currency": "ILS",
+        "host_name": "John Smith",
+        "id": 19635455,
+        "market": "san-francisco",
+        "title": "Comfortable Room In Cozy Neighborhood"
+    },
+    {
+        "base_price": 867,
+        "currency": "AUD",
+        "host_name": "John Smith",
+        "id": 87811832,
+        "market": "san-francisco",
+        "title": "Comfortable Room In Cozy Neighborhood"
+    },
+    {
+        "title": "Comfortable Room In Cozy Neighborhood",
+        "base_price": "1000",
+        "currency": "USD",
+        "market": "san-francisco",
+        "host_name": "John Smith",
+        "id": 75295892
+    }
+]
